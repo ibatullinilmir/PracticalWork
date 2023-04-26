@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Сумма всех целых чисел от A до B" Height="250" Width="350">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Content="A:"/>
+        <TextBox Grid.Row="0" Grid.Column="1" x:Name="txtA" Margin="0,0,-275,0"/>
+        <Label Grid.Row="1" Grid.Column="0" Content="B:"/>
+        <TextBox Grid.Row="1" Grid.Column="1" x:Name="txtB" Margin="0,0,-275,0"/>
+        <Button Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Content="Посчитать" Click="Button_Click"/>
+        <Label Grid.Row="3" Grid.Column="0" Content="Результат:"/>
+        <TextBox Grid.Row="3" Grid.Column="1" x:Name="txtResult" IsReadOnly="True" Margin="0,0,-275,0"/>
+    </Grid>
+</Window>
