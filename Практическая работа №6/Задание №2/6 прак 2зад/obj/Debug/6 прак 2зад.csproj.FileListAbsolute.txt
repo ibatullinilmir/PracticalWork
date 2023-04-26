@@ -1,0 +1,15 @@
+C:\Users\Programmer\source\repos\6 прак 2зад\6 прак 2зад\bin\Debug\6 прак 2зад.exe.config
+C:\Users\Programmer\source\repos\6 прак 2зад\6 прак 2зад\bin\Debug\6 прак 2зад.exe
+C:\Users\Programmer\source\repos\6 прак 2зад\6 прак 2зад\bin\Debug\6 прак 2зад.pdb
+C:\Users\Programmer\source\repos\6 прак 2зад\6 прак 2зад\obj\Debug\6 прак 2зад.csproj.AssemblyReference.cache
+C:\Users\Programmer\source\repos\6 прак 2зад\6 прак 2зад\obj\Debug\MainWindow.g.cs
+C:\Users\Programmer\source\repos\6 прак 2зад\6 прак 2зад\obj\Debug\App.g.cs
+C:\Users\Programmer\source\repos\6 прак 2зад\6 прак 2зад\obj\Debug\6 прак 2зад_MarkupCompile.cache
+C:\Users\Programmer\source\repos\6 прак 2зад\6 прак 2зад\obj\Debug\6 прак 2зад_MarkupCompile.lref
+C:\Users\Programmer\source\repos\6 прак 2зад\6 прак 2зад\obj\Debug\MainWindow.baml
+C:\Users\Programmer\source\repos\6 прак 2зад\6 прак 2зад\obj\Debug\6 прак 2зад.g.resources
+C:\Users\Programmer\source\repos\6 прак 2зад\6 прак 2зад\obj\Debug\_6_прак_2зад.Properties.Resources.resources
+C:\Users\Programmer\source\repos\6 прак 2зад\6 прак 2зад\obj\Debug\6 прак 2зад.csproj.GenerateResource.cache
+C:\Users\Programmer\source\repos\6 прак 2зад\6 прак 2зад\obj\Debug\6 прак 2зад.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\source\repos\6 прак 2зад\6 прак 2зад\obj\Debug\6 прак 2зад.exe
+C:\Users\Programmer\source\repos\6 прак 2зад\6 прак 2зад\obj\Debug\6 прак 2зад.pdb

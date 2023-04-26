@@ -1,0 +1,15 @@
+C:\Users\Programmer\source\repos\6 парк 4зад\6 парк 4зад\bin\Debug\6 парк 4зад.exe.config
+C:\Users\Programmer\source\repos\6 парк 4зад\6 парк 4зад\bin\Debug\6 парк 4зад.exe
+C:\Users\Programmer\source\repos\6 парк 4зад\6 парк 4зад\bin\Debug\6 парк 4зад.pdb
+C:\Users\Programmer\source\repos\6 парк 4зад\6 парк 4зад\obj\Debug\6 парк 4зад.csproj.AssemblyReference.cache
+C:\Users\Programmer\source\repos\6 парк 4зад\6 парк 4зад\obj\Debug\MainWindow.g.cs
+C:\Users\Programmer\source\repos\6 парк 4зад\6 парк 4зад\obj\Debug\App.g.cs
+C:\Users\Programmer\source\repos\6 парк 4зад\6 парк 4зад\obj\Debug\6 парк 4зад_MarkupCompile.cache
+C:\Users\Programmer\source\repos\6 парк 4зад\6 парк 4зад\obj\Debug\6 парк 4зад_MarkupCompile.lref
+C:\Users\Programmer\source\repos\6 парк 4зад\6 парк 4зад\obj\Debug\MainWindow.baml
+C:\Users\Programmer\source\repos\6 парк 4зад\6 парк 4зад\obj\Debug\6 парк 4зад.g.resources
+C:\Users\Programmer\source\repos\6 парк 4зад\6 парк 4зад\obj\Debug\_6_парк_4зад.Properties.Resources.resources
+C:\Users\Programmer\source\repos\6 парк 4зад\6 парк 4зад\obj\Debug\6 парк 4зад.csproj.GenerateResource.cache
+C:\Users\Programmer\source\repos\6 парк 4зад\6 парк 4зад\obj\Debug\6 парк 4зад.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\source\repos\6 парк 4зад\6 парк 4зад\obj\Debug\6 парк 4зад.exe
+C:\Users\Programmer\source\repos\6 парк 4зад\6 парк 4зад\obj\Debug\6 парк 4зад.pdb

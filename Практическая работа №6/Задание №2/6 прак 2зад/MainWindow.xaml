@@ -1,0 +1,17 @@
+﻿<Window x:Class="_6_прак_2зад.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_6_прак_2зад"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="150" Width="300">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label>Решение выражения sqrt(6^2) + sqrt(13^2) + sqrt(21^2)</Label>
+            <Button Content="Вычислить" Click="Button_Click"/>
+            <Label Content="Результат:"/>
+            <TextBlock Name="ResultTextBlock" Background="LightGray" Height="20" TextAlignment="Center" Padding="5"/>
+        </StackPanel>
+    </Grid>
+</Window>

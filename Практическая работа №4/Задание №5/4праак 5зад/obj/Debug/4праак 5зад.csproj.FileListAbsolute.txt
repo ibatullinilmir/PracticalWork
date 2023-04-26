@@ -1,0 +1,30 @@
+C:\Users\Programmer\source\repos\4праак 5зад\4праак 5зад\bin\Debug\4праак 5зад.exe.config
+C:\Users\Programmer\source\repos\4праак 5зад\4праак 5зад\bin\Debug\4праак 5зад.exe
+C:\Users\Programmer\source\repos\4праак 5зад\4праак 5зад\bin\Debug\4праак 5зад.pdb
+C:\Users\Programmer\source\repos\4праак 5зад\4праак 5зад\obj\Debug\4праак 5зад.csproj.AssemblyReference.cache
+C:\Users\Programmer\source\repos\4праак 5зад\4праак 5зад\obj\Debug\MainWindow.g.cs
+C:\Users\Programmer\source\repos\4праак 5зад\4праак 5зад\obj\Debug\App.g.cs
+C:\Users\Programmer\source\repos\4праак 5зад\4праак 5зад\obj\Debug\4праак 5зад_MarkupCompile.cache
+C:\Users\Programmer\source\repos\4праак 5зад\4праак 5зад\obj\Debug\4праак 5зад_MarkupCompile.lref
+C:\Users\Programmer\source\repos\4праак 5зад\4праак 5зад\obj\Debug\MainWindow.baml
+C:\Users\Programmer\source\repos\4праак 5зад\4праак 5зад\obj\Debug\4праак 5зад.g.resources
+C:\Users\Programmer\source\repos\4праак 5зад\4праак 5зад\obj\Debug\_4праак_5зад.Properties.Resources.resources
+C:\Users\Programmer\source\repos\4праак 5зад\4праак 5зад\obj\Debug\4праак 5зад.csproj.GenerateResource.cache
+C:\Users\Programmer\source\repos\4праак 5зад\4праак 5зад\obj\Debug\4праак 5зад.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\source\repos\4праак 5зад\4праак 5зад\obj\Debug\4праак 5зад.exe
+C:\Users\Programmer\source\repos\4праак 5зад\4праак 5зад\obj\Debug\4праак 5зад.pdb
+E:\4праак 5зад\4праак 5зад\bin\Debug\4праак 5зад.exe.config
+E:\4праак 5зад\4праак 5зад\bin\Debug\4праак 5зад.exe
+E:\4праак 5зад\4праак 5зад\bin\Debug\4праак 5зад.pdb
+E:\4праак 5зад\4праак 5зад\obj\Debug\4праак 5зад.csproj.AssemblyReference.cache
+E:\4праак 5зад\4праак 5зад\obj\Debug\MainWindow.g.cs
+E:\4праак 5зад\4праак 5зад\obj\Debug\App.g.cs
+E:\4праак 5зад\4праак 5зад\obj\Debug\4праак 5зад_MarkupCompile.cache
+E:\4праак 5зад\4праак 5зад\obj\Debug\4праак 5зад_MarkupCompile.lref
+E:\4праак 5зад\4праак 5зад\obj\Debug\MainWindow.baml
+E:\4праак 5зад\4праак 5зад\obj\Debug\4праак 5зад.g.resources
+E:\4праак 5зад\4праак 5зад\obj\Debug\_4праак_5зад.Properties.Resources.resources
+E:\4праак 5зад\4праак 5зад\obj\Debug\4праак 5зад.csproj.GenerateResource.cache
+E:\4праак 5зад\4праак 5зад\obj\Debug\4праак 5зад.csproj.CoreCompileInputs.cache
+E:\4праак 5зад\4праак 5зад\obj\Debug\4праак 5зад.exe
+E:\4праак 5зад\4праак 5зад\obj\Debug\4праак 5зад.pdb

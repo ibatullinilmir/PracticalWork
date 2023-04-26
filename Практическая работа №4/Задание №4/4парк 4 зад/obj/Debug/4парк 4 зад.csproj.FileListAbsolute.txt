@@ -1,0 +1,30 @@
+C:\Users\Programmer\source\repos\4парк 4 зад\4парк 4 зад\bin\Debug\4парк 4 зад.exe.config
+C:\Users\Programmer\source\repos\4парк 4 зад\4парк 4 зад\bin\Debug\4парк 4 зад.exe
+C:\Users\Programmer\source\repos\4парк 4 зад\4парк 4 зад\bin\Debug\4парк 4 зад.pdb
+C:\Users\Programmer\source\repos\4парк 4 зад\4парк 4 зад\obj\Debug\4парк 4 зад.csproj.AssemblyReference.cache
+C:\Users\Programmer\source\repos\4парк 4 зад\4парк 4 зад\obj\Debug\MainWindow.g.cs
+C:\Users\Programmer\source\repos\4парк 4 зад\4парк 4 зад\obj\Debug\App.g.cs
+C:\Users\Programmer\source\repos\4парк 4 зад\4парк 4 зад\obj\Debug\4парк 4 зад_MarkupCompile.cache
+C:\Users\Programmer\source\repos\4парк 4 зад\4парк 4 зад\obj\Debug\4парк 4 зад_MarkupCompile.lref
+C:\Users\Programmer\source\repos\4парк 4 зад\4парк 4 зад\obj\Debug\MainWindow.baml
+C:\Users\Programmer\source\repos\4парк 4 зад\4парк 4 зад\obj\Debug\4парк 4 зад.g.resources
+C:\Users\Programmer\source\repos\4парк 4 зад\4парк 4 зад\obj\Debug\_4парк_4_зад.Properties.Resources.resources
+C:\Users\Programmer\source\repos\4парк 4 зад\4парк 4 зад\obj\Debug\4парк 4 зад.csproj.GenerateResource.cache
+C:\Users\Programmer\source\repos\4парк 4 зад\4парк 4 зад\obj\Debug\4парк 4 зад.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\source\repos\4парк 4 зад\4парк 4 зад\obj\Debug\4парк 4 зад.exe
+C:\Users\Programmer\source\repos\4парк 4 зад\4парк 4 зад\obj\Debug\4парк 4 зад.pdb
+E:\4парк 4 зад\4парк 4 зад\bin\Debug\4парк 4 зад.exe.config
+E:\4парк 4 зад\4парк 4 зад\bin\Debug\4парк 4 зад.exe
+E:\4парк 4 зад\4парк 4 зад\bin\Debug\4парк 4 зад.pdb
+E:\4парк 4 зад\4парк 4 зад\obj\Debug\4парк 4 зад.csproj.AssemblyReference.cache
+E:\4парк 4 зад\4парк 4 зад\obj\Debug\MainWindow.g.cs
+E:\4парк 4 зад\4парк 4 зад\obj\Debug\App.g.cs
+E:\4парк 4 зад\4парк 4 зад\obj\Debug\4парк 4 зад_MarkupCompile.cache
+E:\4парк 4 зад\4парк 4 зад\obj\Debug\4парк 4 зад_MarkupCompile.lref
+E:\4парк 4 зад\4парк 4 зад\obj\Debug\MainWindow.baml
+E:\4парк 4 зад\4парк 4 зад\obj\Debug\4парк 4 зад.g.resources
+E:\4парк 4 зад\4парк 4 зад\obj\Debug\_4парк_4_зад.Properties.Resources.resources
+E:\4парк 4 зад\4парк 4 зад\obj\Debug\4парк 4 зад.csproj.GenerateResource.cache
+E:\4парк 4 зад\4парк 4 зад\obj\Debug\4парк 4 зад.csproj.CoreCompileInputs.cache
+E:\4парк 4 зад\4парк 4 зад\obj\Debug\4парк 4 зад.exe
+E:\4парк 4 зад\4парк 4 зад\obj\Debug\4парк 4 зад.pdb
